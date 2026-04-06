@@ -9,4 +9,4 @@ This repository includes my course completion certificate.
 
 This section includes UI/UX design materials and methodology used in the project.
 
-- [UI/UX Method Comparison]([./docs/ui-ux/uiux-method-comparison.pptx])(https://github.com/numaer21/Implementing-IoT-Pipeline/blob/main/docs/ui-ux/UI-UX%20Method%20Used.pdf)
+- 📄 [UI/UX Method Comparison](./docs/ui-ux/UI-UX%20Method%20Used.pdf)
