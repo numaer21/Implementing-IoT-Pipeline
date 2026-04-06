@@ -9,3 +9,6 @@ This folder contains UI/UX design materials for the project.
 
 ## Description
 This section includes the design process and methodology used to create an intuitive user experience.
+## 📂 Files
+
+- [UI/UX Method Comparison](./UI-UX Method Used.pdf)
